@@ -1,4 +1,7 @@
-# 🍃 Mulberry Leaf Disease Detection using CNN-Based Smart Android Application
+🍃 Mulberry Leaf Disease Detection using CNN-Based Smart Android Application
+
+![maxresdefault](https://github.com/user-attachments/assets/d6f01c0e-0f18-423f-8b38-fbe4b80e00d0)
+
 
 ## 🎯 Objective
 This project aims to develop an intelligent Android application that can automatically detect diseases in mulberry leaves using a Convolutional Neural Network (CNN). The system is designed to support farmers and agriculturists by providing **real-time diagnosis** through a mobile interface.
